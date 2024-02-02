@@ -17,7 +17,7 @@ I really like:
 - [FastAPI](https://fastapi.tiangolo.com/) - Great Python web framework.
 - [VueJs](https://vuejs.org/) - A powerful JavaScript framework.
 - Linux - Just a great operating system.
-
+- [Spring Boot](https://spring.io/projects/spring-boot) - A great Java platform.
 <!--
 **langhornweb/langhornweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
