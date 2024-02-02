@@ -1,12 +1,22 @@
-### Hi there, I'm Lasse Langhorn 👋
+### Hi there, I'm Lasse Langhorn :wave:
 
-I am a software developer and AWS solutions architect.
+I am a full stack software developer and AWS solutions architect.
 
 I currently live in Aalborg, Denmark.
 
-I have a passion for software development and cloud computing, especially AWS.
+I have a passion for creating software in Java, Python, JavaScript and TypeScript and work with cloud computing, especially [AWS](https://aws.amazon.com/).
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/lasselanghorn/) and that is pretty much it.
+You can find me on [LinkedIn](https://www.linkedin.com/in/lasselanghorn/) and that is pretty much it. :grin:
+
+I’m currently learning generative ai and machine learning.
+
+I really like:
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The best IDE for just about any coding task.
+- [github.com](https://github.com/) - A great place to store and share code.
+- [AWS](https://aws.amazon.com/) - The best cloud provider IMO.
+- [FastAPI](https://fastapi.tiangolo.com/) - Great Python web framework.
+- [VueJs](https://vuejs.org/) - A powerful JavaScript framework.
+- Linux - Just a great operating system.
 
 <!--
 **langhornweb/langhornweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
