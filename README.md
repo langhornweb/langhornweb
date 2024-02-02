@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Lasse Langhorn 👋
+
+I am a software developer and AWS solutions architect.
+
+I currently live in Aalborg, Denmark.
+
+I have a passion for software development and cloud computing, especially AWS.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/lasselanghorn/) and that is pretty much it.
 
 <!--
 **langhornweb/langhornweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
