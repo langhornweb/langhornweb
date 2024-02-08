@@ -4,7 +4,7 @@ I am a full stack software developer and AWS solutions architect.
 
 I currently live in Aalborg, Denmark.
 
-I have a passion for creating software in Java, Python, JavaScript and TypeScript and work with cloud computing, especially [AWS](https://aws.amazon.com/).
+I have a passion for creating software in Java, Python and JavaScript/TypeScript and work with cloud computing, especially [AWS](https://aws.amazon.com/).
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/lasselanghorn/) and that is pretty much it. :grin:
 
@@ -18,8 +18,9 @@ I really like:
 - [VueJs](https://vuejs.org/) - A powerful JavaScript framework.
 - Linux - Just a great operating system.
 - [Spring Boot](https://spring.io/projects/spring-boot) - A great Java platform.
+- The idea of open source software.
 
-In the future I would like to have many public repositories. 
+In the future I would like to have many public repositories and not just the private ones I have now.
 
 <!--
 **langhornweb/langhornweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
