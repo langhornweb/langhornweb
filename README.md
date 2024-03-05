@@ -8,7 +8,7 @@ I have a passion for creating software in Java, Python and JavaScript/TypeScript
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/lasselanghorn/) and that is pretty much it. :grin:
 
-I’m currently learning generative ai and machine learning.
+I’m currently learning generative ai, advanced networking and machine learning.
 
 I really like:
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The best IDE for just about any coding task.
